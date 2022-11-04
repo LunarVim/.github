@@ -8,5 +8,6 @@
 
 Ping chrisatmachine in the discord if you want to become an intern.
 
-After 3 quality PRs to LunarVim Core you will be upgraded to developer status. 
+After 3 quality PRs to LunarVim Core you will be upgraded to developer status.
+
 (You will also need to ping me and link the PRs as well)
